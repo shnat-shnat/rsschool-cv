@@ -1,4 +1,4 @@
-**Nataliia Shirokova**
+# Nataliia Shirokova
 
 Contacts: tel 89169651052, e-mail jezhevika.sh@gmail.com
 Discord: Наталия#6002
@@ -6,15 +6,15 @@ Discord: Наталия#6002
 ![myphoto] (/img/myphoto.jpg "My Photo")
 
 My goal and priorities: to get good skills that will allow me to work remotedly in front-end sphere. 
-My strengths are: 
+**My strengths are:** 
 - good ability to learn and gain new skills;
 - keen attention to details;
 - commitment to terms, tasks and deadlines.
 
-My level of English: B2+, with decent teaching practice. My knowledge of techniocal English is not so good, but I hope to improve it soon.
+**My level of English:** B2+, with decent teaching practice. My knowledge of techniocal English is not so good, but I hope to improve it soon.
 
 
-Code example: 
+**Code example:** 
 `function compose() {
             let funcs = Array.from(arguments);
             return function (x) {
@@ -27,11 +27,11 @@ Code example:
             };
             }`
 
-Hard skills:
-HTML & CSS (basic knowledge)
-Git
-Photoshop
+**Hard skills:**
+* HTML & CSS (basic knowledge)
+* Git
+* Photoshop
 
-Cources taken:
+**Cources taken:**
 1. RS PreSchool (stage 0);
 2. https://learngitbranching.js.org/
