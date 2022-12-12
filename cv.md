@@ -3,6 +3,8 @@
 Contacts: 
 email: jezhevika.sh@gmail.com
 GitHub: shnat-shnat
+Telegram:
+
 
 MY GOAL:
 To become a good front-end engineer therefore to gain all necessary skills first
@@ -46,3 +48,5 @@ PROJECTS:
 [to be uploaded]
 
 © 2022 by Nataliia Shirokova
+Links to LinkedIn
+
