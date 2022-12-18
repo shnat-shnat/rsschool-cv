@@ -1,0 +1,45 @@
+/*.logo 
+{
+background-image: url(images/rs_school_js.svg);
+background-repeat: no-repeat;
+*/
+.footer, .header {
+    background-color: #3b3b4f;
+    width: 80%;
+    color:aliceblue;
+}
+
+.main {
+    width: 100%;
+  background-color: rgb(139, 147, 194);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+.h1 {
+    font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.h1, .h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.capsdata {
+    text-align: left;
+    font-variant: small-caps;
+  }
+
+.info {
+    text-align: right;
+}
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+ .nav-link, .footer-link {
+    color: azure;
+ }
