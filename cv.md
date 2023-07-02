@@ -19,6 +19,6 @@ CURRENT COURSES RS School: JS/Frontend. Stage 0; GeekBrains: JS programmer
 <image src="[https://picsum.photos](https://drive.google.com/drive/u/0/folders/1anrtlBUMtavHlCccmLRR_KAbUWy_CbsU)/400/300" alt="myphoto">
 #LANGUAGES: 
 
-*Russian: native speaker 
-*English: B2-C1 
-*Ukrainian: fluent
+* Russian: native speaker 
+* English: B2-C1 
+* Ukrainian: fluent
