@@ -1,5 +1,7 @@
 **Shirokova Nataliia**
 
+![фото для профиля_photo-resizer ru](https://github.com/shnat-shnat/rsschool-cv/assets/106736968/7ddb10ec-8404-4b7f-8dbc-049b55008c8b)
+
 **Contacts:**
 
 email: jezhevika.sh@gmail.com
