@@ -1,4 +1,4 @@
-**Shirokova Nataliia**
+# Shirokova Nataliia
 
 ![фото для профиля_photo-resizer ru](https://github.com/shnat-shnat/rsschool-cv/assets/106736968/7ddb10ec-8404-4b7f-8dbc-049b55008c8b)
 
@@ -18,9 +18,9 @@ MY EDUCATION: Moscow human-economic Academy 2008 (Interpreter: English language)
 CURRENT COURSES RS School: JS/Frontend. Stage 0
 
 
-#MY CERTIFICATES: [to be uploaded]
+# MY CERTIFICATES: [to be uploaded]
 
-#MY STRENGTHS:
+# MY STRENGTHS:
 
 * Quick learner
 * Attention to details
@@ -28,7 +28,7 @@ CURRENT COURSES RS School: JS/Frontend. Stage 0
 * Team playing
 
 
-#LANGUAGES:
+# LANGUAGES:
 * Russian: native speaker
 * English: B2-C1
 
