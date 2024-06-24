@@ -1,6 +1,6 @@
 **Shirokova Nataliia**
 
-**Contacts: **
+**Contacts:**
 
 email: jezhevika.sh@gmail.com
 
