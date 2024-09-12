@@ -1,0 +1,33 @@
+body
+{font-family: 'Montserrat', sans-serif;}
+
+.photo {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    margin-right: 20px;
+}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: ghostwhite;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+}
+
+.contact-details {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.list-footer {
+    list-style-type:  none;
+}
